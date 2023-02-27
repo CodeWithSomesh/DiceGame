@@ -1,4 +1,4 @@
-# DiceChallengeGame
+# DiceGame
 Dice Challenge Game from Angela Yu's Complete Web Development Course 
 
 Built with

@@ -1,7 +1,7 @@
 # DiceGame
 Dice Challenge Game from Angela Yu's Complete Web Development Course 
 
-My Website:
+My Website (Link):
 https://codewithsomesh.github.io/DiceGame/
 
 Built with
@@ -16,7 +16,6 @@ Built with
  Modified the original website colors to the colors of my liking
  
  My Website (Screenshots):
- https://codewithsomesh.github.io/DiceGame/
 ![2023-02-27 (20)](https://user-images.githubusercontent.com/123357802/221589337-0326cd8c-9e9b-47a3-852e-0ae5dc954bdf.png)
 ![2023-02-27 (17)](https://user-images.githubusercontent.com/123357802/221589930-f48d4cf4-779d-4adb-886e-c18ee109ad53.png)
 ![2023-02-27 (19)](https://user-images.githubusercontent.com/123357802/221589456-c25432ba-17ea-4279-b7ff-6c91561d5977.png)
